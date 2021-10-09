@@ -1,2 +1,3 @@
 # toy_ds_project
-project creation data: Oct. 9, 2021
+project creation date: Oct. 9, 2021
+author: Eva
